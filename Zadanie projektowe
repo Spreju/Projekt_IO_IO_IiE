@@ -1,0 +1,20 @@
+Tytuł projektu: System Zarządzania Równowagą Świata „OLYMPUS”
+
+Treść zadania projektowego:
+Od wieków bogowie olimpijscy zarządzają światem śmiertelników, ingerując w jego losy poprzez wysłuchiwanie modlitw, zesyłanie błogosławieństw i kar, wywoływanie zjawisk naturalnych oraz decydowanie o przeznaczeniu dusz po śmierci. Wraz ze wzrostem liczby ludności oraz nasileniem konfliktów między ludźmi, zarządzanie światem stało się coraz bardziej złożone. Coraz częściej dochodzi do nakładania się interwencji różnych bogów, przeciążenia Podziemi oraz destabilizacji równowagi świata.
+
+W związku z powyższym Zeus, jako najwyższy władca Olimpu, podjął decyzję o wdrożeniu scentralizowanego systemu informatycznego „OLYMPUS”, którego zadaniem będzie uporządkowanie procesów zarządzania światem, kontrola interwencji boskich oraz stałe monitorowanie równowagi między światem żywych i umarłych.
+
+System ma uwzględniać strukturę Olimpu oraz role poszczególnych jego mieszkańców. Każdy z bogów odpowiada za określoną dziedzinę świata i posiada możliwość ingerowania wyłącznie w przypisanym mu zakresie. Zeus, oprócz standardowych kompetencji boskich, posiada prawo zatwierdzania najpoważniejszych decyzji, zwłaszcza tych, które mogą wpłynąć na cały świat. Mojry odpowiedzialne są za zarządzanie losem śmiertelników, Hades nadzoruje funkcjonowanie Podziemi, natomiast Wyrocznia zajmuje się analizą danych oraz przewidywaniem przyszłych zagrożeń. W systemie funkcjonują również Śmiertelnicy, a wśród nich wybrani Herosi, którzy mogą otrzymywać specjalne zadania od bogów.
+
+Jednym z głównych procesów obsługiwanych przez system ma być składanie i rozpatrywanie modlitw. Śmiertelnik powinien mieć możliwość skierowania prośby do wybranego boga, dołączając ofiarę oraz określając charakter swojej potrzeby. Po wpłynięciu modlitwy system dokonuje jej weryfikacji, a następnie przekazuje ją do odpowiedniego bóstwa. Modlitwa może być analizowana, zaakceptowana, odrzucona bądź skutkować zesłaniem kary. W zależności od decyzji boga system inicjuje odpowiednią interwencję lub zamyka sprawę, zachowując pełną historię zdarzeń.
+
+System ma również wspierać zarządzanie interwencjami boskimi. Bóg może zdecydować o zesłaniu zjawiska naturalnego, błogosławieństwa lub kary na określony region świata. W przypadku działań o większej skali, wpływających na wiele krain jednocześnie, konieczne jest uzyskanie zgody Zeusa przed ich uruchomieniem. Każda interwencja powinna być rejestrowana, monitorowana w czasie trwania oraz uwzględniana przy obliczaniu poziomu równowagi świata.
+
+Istotnym elementem systemu jest zarządzanie cyklem życia śmiertelników. Każdy człowiek posiada przypisaną Nić Życia, nadzorowaną przez Mojry. W wyniku upływu czasu, działań wojennych lub interwencji boskich Nić może ulegać skróceniu, a w momencie jej przecięcia śmiertelnik uznawany jest za zmarłego. Informacja o śmierci przekazywana jest automatycznie do Podziemi, gdzie rozpoczyna się proces oceny duszy.
+
+W Podziemiach system wspiera rejestrację nowych dusz oraz przeprowadzenie procesu sądu. Na podstawie zgromadzonych danych dotyczących życia śmiertelnika podejmowana jest decyzja o jego dalszym losie i przypisaniu do odpowiedniej strefy. Dane te są archiwizowane, a Hades ma możliwość monitorowania liczby dusz w poszczególnych obszarach.
+
+Dodatkowo system powinien umożliwiać bogom tworzenie misji dla herosów. Zadania te mogą dotyczyć walki z potworami, ochrony miast lub realizacji określonych celów strategicznych. Heros może przyjąć lub odrzucić misję, a po jej zakończeniu raportuje wynik. W zależności od rezultatu system aktualizuje jego status oraz przyznaje przewidzianą nagrodę.
+
+Całość funkcjonowania świata powinna być nadzorowana przez moduł analityczny, który na podstawie zgromadzonych danych oblicza wskaźnik Równowagi Świata. Zeus oraz Wyrocznia mają możliwość przeglądania raportów oraz identyfikowania zagrożeń wynikających z nadmiernej liczby katastrof, wojen lub przeciążenia Podziemi. W przypadku przekroczenia ustalonych progów system generuje ostrzeżenia, umożliwiając podjęcie odpowiednich działań.
